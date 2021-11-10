@@ -1,7 +1,6 @@
-### Script to automate the recovery of the bios code
+## Script to automate the recovery of the bios code
 
-<p> Array of password (my code is based on this) </h1>
-<br>
+<p> Array of password BIOS by Version (my code is based on this) </h1>
 
   ```
 Ene 7 : PYH7Ad284a
@@ -15,12 +14,11 @@ Ene : F8Hv4U3T67
 Timing: F8Hv4U3T67
   ```
   
-<p> Command on CMD : wmic bios get smbiosbiosversion </p>
-<br>
+<p> Command to do on CMD for get BIOS version : wmic bios get smbiosbiosversion </p>
+
 ## Bonus :
-<br>
+
 <p>Array already on qwerty juste write it like you see it on your keyboard azerty </p>
-<br>
 
 ```
 Ene 7: PYHèQdé'q (qwerty) 
@@ -33,7 +31,7 @@ Ene 1: wF(VqfSnsD (qwerty)
 Ene : F_Hv'U"T-è (qwerty) 
 Timing: F_Hv'U"T-è (qwerty)
 ```
-<br>
-if you want to disable the admin session you will need to get a flash usb with Linux OS (maybe) and reset the security configuration set up by your Region for your access restriction.
-
+<p>
+if you want to disable the admin session you will need to get a flash usb with Linux OS (maybe) and reset the security configuration set up by your Region for your access restriction. </p> 
+ 
 Tutorials already exist for do this like : [Youtube](https://www.youtube.com/watch?v=56Dnxj-dt24&t=46s) 
