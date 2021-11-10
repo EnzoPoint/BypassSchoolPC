@@ -1,6 +1,8 @@
 ## Script to automate the recovery of the bios code
 
-<p> Array of password BIOS by Version (my code is based on this) </h1>
+This is for "Ile de France"
+
+<p> Array of password BIOS by Version (my code is based on this) </p>
 
   ```
 Ene 7 : PYH7Ad284a
