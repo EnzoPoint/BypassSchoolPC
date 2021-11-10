@@ -34,6 +34,6 @@ Ene : F_Hv'U"T-è (qwerty)
 Timing: F_Hv'U"T-è (qwerty)
 ```
 <br>
-if you want to disable the admin session you will need to get a flash usb with Linux OS (maybe) and reset the security configuration set up by your Region for your access restriction (tutorials already exist like [Youtube](https://www.youtube.com/watch?v=56Dnxj-dt24&t=46s)
-<br>
-🙃 ^^ 🙃
+if you want to disable the admin session you will need to get a flash usb with Linux OS (maybe) and reset the security configuration set up by your Region for your access restriction.
+
+Tutorials already exist for do this like [Youtube](https://www.youtube.com/watch?v=56Dnxj-dt24&t=46s) 
